@@ -1,59 +1,32 @@
-## Hello, My name is Bruno Gonzaga!
+# Bruno Gonzaga
 
-### ⚙️ GitHub Analytics
+Software engineer and tech lead based in Curitiba, Brazil.
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=obrunogonzaga&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunogonzaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=obrunogonzaga&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+I build backend systems, developer tools, automation, and AI-assisted products. My current work focuses on turning complex workflows into reliable, maintainable software.
 
---- 
+## Current focus
 
-### 🏆 GitHub Profile Trophy
+- AI agents and local-first developer tooling
+- Backend architecture and distributed systems
+- Automation, observability, and platform engineering
+- Products for finance, operations, and real estate
 
-<p align="center">
-  <a
-    href="https://github.com/obrunogonzaga/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=obrunogonzaga&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+## Selected work
 
----
+- [DotContext](https://github.com/obrunogonzaga/dotcontext) — structured context and planning workflows for coding agents
+- [Darius Twin](https://github.com/obrunogonzaga/darius-twin) — digital-twin project with deployment documentation
+- [Clinic Appointment System](https://github.com/obrunogonzaga/clinic-appointment-system) — appointment platform with production deployment
+- [Budget CLI](https://github.com/obrunogonzaga/budget-cli) — personal finance and shared transaction management
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+## Working principles
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/obrunogonzaga/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+- Build the smallest useful slice first
+- Prefer explicit contracts and observable systems
+- Keep automation reversible
+- Treat documentation as part of the product
+
+## Connect
+
+- [Website](https://brunogonzaga.dev)
+- [LinkedIn](https://www.linkedin.com/in/brunogsantos/)
+- [Email](mailto:brunog86@gmail.com)
