@@ -4,6 +4,12 @@ Software engineer and tech lead based in Curitiba, Brazil.
 
 I build backend systems, developer tools, automation, and AI-assisted products. My current work focuses on turning complex workflows into reliable, maintainable software.
 
+## GitHub dashboard
+
+![GitHub metrics](./github-metrics.svg)
+
+_Updated daily from GitHub data._
+
 ## Current focus
 
 - AI agents and local-first developer tooling
